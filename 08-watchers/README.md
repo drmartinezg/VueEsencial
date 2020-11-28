@@ -1,0 +1,3 @@
+# Watchers 
+
+Las [propiedades computadas](https://escuelavue.es/series/curso-vue/propiedades-computadas-vue-espanol/) nos permiten componer datos usando otros datos (propiedades del modelo). Aunque en la mayoría de los casos es la estructura más utilizada, en otras ocasiones necesitamos algo 100% personalizado. Es ahí cuando los [watchers](https://vuejs.org/v2/guide/computed.html#Watchers) entran en acción.
